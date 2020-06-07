@@ -8,4 +8,5 @@ def my_each(array)# put argument(s) here
     end
 
   else
-    puts ""
+    puts "This block should not run!"
+  end
